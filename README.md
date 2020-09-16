@@ -1,1 +1,0 @@
-# jordanalcaraz.github.io
