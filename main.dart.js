@@ -41740,7 +41740,7 @@ V.v2.prototype={
 O:function(a,b){var s=null,r=T.VS(H.d([new G.yk(s),T.xI(s,1000,s)],t.X),C.nw,C.ok)
 return new M.p0(new E.xF(!0,r,s),s)}}
 F.vI.prototype={
-O:function(a,b){return new S.o6(new V.v2(null),new F.IP(),"Flutter Demo",X.XB(null,$.a06(),X.a49()),!1,null)}}
+O:function(a,b){return new S.o6(new V.v2(null),new F.IP(),"Jordan ALCARAZ",X.XB(null,$.a06(),X.a49()),!1,null)}}
 F.IP.prototype={
 $2:function(a,b){return new D.iH(D.W0(a),b,null)},
 $C:"$2",
